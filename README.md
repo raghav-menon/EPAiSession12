@@ -155,3 +155,6 @@ Calculates the maximum efficiency polygon
 
 ## PolygonIter Class
 Class implemeted to obtain the next element of the polygon sequence
+
+
+The deepnote link to this is https://deepnote.com/project/Lazy-Evaluations-kzFqUnQUSmurp0utPU-h5Q/%2FPolygon_LazyIterator.ipynb
