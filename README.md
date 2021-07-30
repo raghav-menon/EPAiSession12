@@ -1,4 +1,4 @@
-## Session 11 - Iterators and Iterables II
+## Session 12 - Iterators and Iterables II
 
 ## Lazy Evaluation
 
