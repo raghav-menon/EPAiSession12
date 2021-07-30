@@ -144,7 +144,7 @@ or a sequence of elements [slice of the sequence] as a list is calculated and re
 ## __iter__
 This function returns the PolygonIter class which is an class inside the Polygons. This function makes the Polygon sequence class an iterator.
 
-## __reveresed__
+## __reversed__
 This function is implemented to reverse the sequence in the descending order of edges. 
 
 ## _polygon
